@@ -1,4 +1,4 @@
- Movie Recommendation System
+AI/ML Internship - Task: Movie Recommendation System
 
 This project focuses on building a Content-Based Movie Recommendation System using Python, Pandas, Scikit-Learn, and NLTK, leveraging the TMDB 5000 Movies and Credits datasets.
 
